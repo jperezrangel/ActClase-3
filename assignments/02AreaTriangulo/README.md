@@ -21,7 +21,7 @@ Ejemplo:
 ```
 Dame la base: 7
 Dame la altura: 5
-El área es:17.5
+El área es: 17.5
 ```
 
 **Nota:** No te preocupes por esta parte del código `if __name__ == '__main__':` por el momento. No la vamos a necesitar para este programa, pero es una buena práctica incluirla y quedará más claro para que sirve en los siguientes ejercicios.
