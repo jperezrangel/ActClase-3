@@ -31,7 +31,7 @@ Ejemplo:
 ```
 Dame tu edad: 10
 Dame el año actual: 2021
-Cumplirás 100 años en el año:2111
+Cumplirás 100 años en el año: 2111
 ```
 
 **Nota:** No te preocupes por esta parte del código `if __name__ == '__main__':` por el momento. No la vamos a necesitar para este programa, pero es una buena práctica incluirla y quedará más claro para que sirve en los siguientes ejercicios.
