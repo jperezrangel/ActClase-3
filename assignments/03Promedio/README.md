@@ -24,7 +24,7 @@ Calificación de la materia: 90
 Calificación de la materia: 100
 Calificación de la materia: 60
 Calificación de la materia: 70
-El promedio es:80.0
+El promedio es: 80.0
 ```
 
 **Nota:** No te preocupes por esta parte del código `if __name__ == '__main__':` por el momento. No la vamos a necesitar para este programa, pero es una buena práctica incluirla y quedará más claro para que sirve en los siguientes ejercicios.
